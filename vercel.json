@@ -1,0 +1,16 @@
+{
+    "version": 2,
+    "name": "veroncm",
+    "builds": [
+        {
+            "src": "pages/index.js",
+            "use": "@vercel/node"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "pages/index.js"
+        }
+    ]
+}
