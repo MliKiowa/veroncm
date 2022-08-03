@@ -1,0 +1,31 @@
+{                                                         
+  "name": "veroncm",                                      
+  "version": "1.0.0",                                     
+  "description": "ncm vercel",                      
+  "main": "index.js",   
+  "keywords": ["next.js"],                                  
+  "scripts": {                                            
+   "dev": "next dev",
+   "build": "next build",
+   "start": "next start",
+   "lint": "next lint"
+   },   
+   "engines": {
+     "node": ">=0.12"
+   }, 
+   "dependencies": {
+     "next": "^9.1.4",
+     "react": "^16.12.0",
+     "react-dom": "^16.12.0"
+    },
+   "repository":{
+     "type":"git",
+     "url":"https://github.com/Mlikiowa/veroncm.git"
+    },
+   "bugs": {
+     "url": "https://github.com/Mlikiowa/veroncm/issues"
+    },
+    "homepage":"https://github.com/Mlikiowa/veroncm"                                         
+    "author": "Mlikiowa <nineto0@163.com>",                                           
+    "license": "MIT" 
+}
