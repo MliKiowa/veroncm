@@ -8,6 +8,7 @@ Language:
 [![GitHub issues](https://img.shields.io/github/issues/MliKiowa/veroncm?style=flat-square)](https://github.com/MliKiowa/veroncm/issues)
 [![GitHub forks](https://img.shields.io/github/forks/MliKiowa/veroncm?style=flat-square)](https://github.com/MliKiowa/veroncm/network)
 [![GitHub stars](https://img.shields.io/github/stars/MliKiowa/veroncm?style=flat-square)](https://github.com/MliKiowa/veroncm/stargazers)
+[![vercel](https://img.shields.io/github/discussions/spencerwooo/onedrive-vercel-index?color=CF2B5B&labelColor=black&logo=github&style=flat-square)
 
 ## 介绍
 基于vercel的node ncm文件处理
