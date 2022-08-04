@@ -7,7 +7,7 @@
      "node": ">=0.16"
    }, 
    "dependencies": {
-     "crypto-js": "^4.1.1",    
+     "crypto-js": "^4.1.1"  
     },
    "repository":{
      "type":"git",
