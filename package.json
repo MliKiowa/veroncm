@@ -2,23 +2,12 @@
   "name": "veroncm",                                      
   "version": "1.0.0",                                     
   "description": "ncm vercel",                       
-  "keywords": ["next.js"],                                  
-  "scripts": {                                            
-   "dev": "next dev",
-   "build": "next build",
-   "start": "next start",
-   "lint": "next lint"
-   },   
+  "keywords": ["vercel"],                                    
    "engines": {
-     "node": ">=0.12"
+     "node": ">=0.16"
    }, 
    "dependencies": {
-     "next": "^12.2.3",
-     "crypto-js": "^4.1.1",
-     "babel-cli": "^6.26.0"
-     "babel-preset-env": "^1.7.0"
-     "react": "^16.12.0",
-     "react-dom": "^16.12.0"
+     "crypto-js": "^4.1.1",    
     },
    "repository":{
      "type":"git",
