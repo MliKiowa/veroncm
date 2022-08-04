@@ -1,7 +1,6 @@
-import React from 'react'
-import Link from 'next/link'
-function HomePage() {
-  return <div>Welcome to Next.js!</div>
+module.exports = OnRequest;
+ 
+function OnRequest(request, response){
+    response.send("DearXuan's API by nodejs!");
+    response.end();
 }
-
-export default HomePage
