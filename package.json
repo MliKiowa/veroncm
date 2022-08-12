@@ -1,7 +1,7 @@
 {                                                         
   "name": "veroncm",                                      
   "version": "1.0.0",                                     
-  "description": "ncm vercel",                       
+  "description": "Random Picure on vercel",                       
   "keywords": ["vercel"],                                    
    "engines": {
      "node": ">=0.16"
