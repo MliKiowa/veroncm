@@ -3,7 +3,7 @@
     "name": "veroncm",
     "builds": [
         {
-            "src": "/pages/",
+            "src": "/pages",
             "use": "@vercel/node"
         }
     ],
