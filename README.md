@@ -12,7 +12,7 @@ Language:
 
 ## 介绍
 随机图片Api
-
+支持(NONE 301 302 json) method
 ## 示例
 
 待补充
