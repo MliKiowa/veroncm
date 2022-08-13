@@ -3,14 +3,14 @@
     "name": "veroncm",
     "builds": [
         {
-            "src": "pages/index.js",
+            "src": "/pages/",
             "use": "@vercel/node"
         }
     ],
     "routes": [
         {
-            "src": "/(.*)",
-            "dest": "pages/index.js"
+            "src": "/pages",
+            "dest": "/pages"
         }
     ]
 }
