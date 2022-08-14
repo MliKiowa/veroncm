@@ -1,16 +1,10 @@
 {
-    "version": 2,
-    "name": "veroncm",
-    "builds": [
-        {
-            "src": "/pages",
-            "use": "@vercel/node"
-        }
-    ],
-    "routes": [
-        {
-            "src": "/pages",
-            "dest": "/pages"
-        }
-    ]
+  "version": 2,
+  "name": "veroncm",
+  "rewrites":[
+    {
+     "source":"pages/(.*)",
+     "destination":"/pages"
+    }
+             ]
 }
